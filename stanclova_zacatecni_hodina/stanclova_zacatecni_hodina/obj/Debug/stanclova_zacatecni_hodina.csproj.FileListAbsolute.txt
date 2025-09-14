@@ -1,0 +1,7 @@
+C:\MOJE\ŠKOLA\Prg\stanclova_zacatecni_hodina\stanclova_zacatecni_hodina\bin\Debug\stanclova_zacatecni_hodina.exe.config
+C:\MOJE\ŠKOLA\Prg\stanclova_zacatecni_hodina\stanclova_zacatecni_hodina\bin\Debug\stanclova_zacatecni_hodina.exe
+C:\MOJE\ŠKOLA\Prg\stanclova_zacatecni_hodina\stanclova_zacatecni_hodina\bin\Debug\stanclova_zacatecni_hodina.pdb
+C:\MOJE\ŠKOLA\Prg\stanclova_zacatecni_hodina\stanclova_zacatecni_hodina\obj\Debug\stanclova_zacatecni_hodina.csproj.AssemblyReference.cache
+C:\MOJE\ŠKOLA\Prg\stanclova_zacatecni_hodina\stanclova_zacatecni_hodina\obj\Debug\stanclova_zacatecni_hodina.csproj.CoreCompileInputs.cache
+C:\MOJE\ŠKOLA\Prg\stanclova_zacatecni_hodina\stanclova_zacatecni_hodina\obj\Debug\stanclova_zacatecni_hodina.exe
+C:\MOJE\ŠKOLA\Prg\stanclova_zacatecni_hodina\stanclova_zacatecni_hodina\obj\Debug\stanclova_zacatecni_hodina.pdb
