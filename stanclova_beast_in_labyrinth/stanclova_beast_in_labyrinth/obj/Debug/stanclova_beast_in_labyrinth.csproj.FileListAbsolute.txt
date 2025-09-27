@@ -1,0 +1,7 @@
+C:\MOJE\ŠKOLA\Prg\stanclova_beast_in_labyrinth\stanclova_beast_in_labyrinth\bin\Debug\stanclova_beast_in_labyrinth.exe.config
+C:\MOJE\ŠKOLA\Prg\stanclova_beast_in_labyrinth\stanclova_beast_in_labyrinth\bin\Debug\stanclova_beast_in_labyrinth.exe
+C:\MOJE\ŠKOLA\Prg\stanclova_beast_in_labyrinth\stanclova_beast_in_labyrinth\bin\Debug\stanclova_beast_in_labyrinth.pdb
+C:\MOJE\ŠKOLA\Prg\stanclova_beast_in_labyrinth\stanclova_beast_in_labyrinth\obj\Debug\stanclova_beast_in_labyrinth.csproj.AssemblyReference.cache
+C:\MOJE\ŠKOLA\Prg\stanclova_beast_in_labyrinth\stanclova_beast_in_labyrinth\obj\Debug\stanclova_beast_in_labyrinth.csproj.CoreCompileInputs.cache
+C:\MOJE\ŠKOLA\Prg\stanclova_beast_in_labyrinth\stanclova_beast_in_labyrinth\obj\Debug\stanclova_beast_in_labyrinth.exe
+C:\MOJE\ŠKOLA\Prg\stanclova_beast_in_labyrinth\stanclova_beast_in_labyrinth\obj\Debug\stanclova_beast_in_labyrinth.pdb
