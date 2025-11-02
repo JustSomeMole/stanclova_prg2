@@ -1,0 +1,8 @@
+C:\MOJE\ŠKOLA\Prg\stanclova_knihovna_,matematickych_funkci\stanclova_knihovna_,matematickych_funkci\bin\Debug\stanclova_knihovna_,matematickych_funkci.exe.config
+C:\MOJE\ŠKOLA\Prg\stanclova_knihovna_,matematickych_funkci\stanclova_knihovna_,matematickych_funkci\bin\Debug\stanclova_knihovna_,matematickych_funkci.exe
+C:\MOJE\ŠKOLA\Prg\stanclova_knihovna_,matematickych_funkci\stanclova_knihovna_,matematickych_funkci\bin\Debug\stanclova_knihovna_,matematickych_funkci.pdb
+C:\MOJE\ŠKOLA\Prg\stanclova_knihovna_,matematickych_funkci\stanclova_knihovna_,matematickych_funkci\obj\Debug\stanclova_knihovna_,matematickych_funkci.csproj.AssemblyReference.cache
+C:\MOJE\ŠKOLA\Prg\stanclova_knihovna_,matematickych_funkci\stanclova_knihovna_,matematickych_funkci\obj\Debug\stanclova_knihovna_,matematickych_funkci.csproj.CoreCompileInputs.cache
+C:\MOJE\ŠKOLA\Prg\stanclova_knihovna_,matematickych_funkci\stanclova_knihovna_,matematickych_funkci\obj\Debug\stanclova_knihovna_,matematickych_funkci.exe
+C:\MOJE\ŠKOLA\Prg\stanclova_knihovna_,matematickych_funkci\stanclova_knihovna_,matematickych_funkci\obj\Debug\stanclova_knihovna_,matematickych_funkci.pdb
+C:\MOJE\ŠKOLA\Prg\stanclova_knihovna_,matematickych_funkci\stanclova_knihovna_,matematickych_funkci\obj\Debug\stanclova_knihovna_,matematickych_funkci.exe.config
