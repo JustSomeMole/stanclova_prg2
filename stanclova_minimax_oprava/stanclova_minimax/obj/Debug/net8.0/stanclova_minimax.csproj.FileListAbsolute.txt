@@ -1,0 +1,14 @@
+C:\MOJE\ŠKOLA\PRG\stanclova_minimax\stanclova_minimax\bin\Debug\net8.0\stanclova_minimax.exe
+C:\MOJE\ŠKOLA\PRG\stanclova_minimax\stanclova_minimax\bin\Debug\net8.0\stanclova_minimax.deps.json
+C:\MOJE\ŠKOLA\PRG\stanclova_minimax\stanclova_minimax\bin\Debug\net8.0\stanclova_minimax.runtimeconfig.json
+C:\MOJE\ŠKOLA\PRG\stanclova_minimax\stanclova_minimax\bin\Debug\net8.0\stanclova_minimax.dll
+C:\MOJE\ŠKOLA\PRG\stanclova_minimax\stanclova_minimax\bin\Debug\net8.0\stanclova_minimax.pdb
+C:\MOJE\ŠKOLA\PRG\stanclova_minimax\stanclova_minimax\obj\Debug\net8.0\stanclova_minimax.GeneratedMSBuildEditorConfig.editorconfig
+C:\MOJE\ŠKOLA\PRG\stanclova_minimax\stanclova_minimax\obj\Debug\net8.0\stanclova_minimax.AssemblyInfoInputs.cache
+C:\MOJE\ŠKOLA\PRG\stanclova_minimax\stanclova_minimax\obj\Debug\net8.0\stanclova_minimax.AssemblyInfo.cs
+C:\MOJE\ŠKOLA\PRG\stanclova_minimax\stanclova_minimax\obj\Debug\net8.0\stanclova_minimax.csproj.CoreCompileInputs.cache
+C:\MOJE\ŠKOLA\PRG\stanclova_minimax\stanclova_minimax\obj\Debug\net8.0\stanclova_minimax.dll
+C:\MOJE\ŠKOLA\PRG\stanclova_minimax\stanclova_minimax\obj\Debug\net8.0\refint\stanclova_minimax.dll
+C:\MOJE\ŠKOLA\PRG\stanclova_minimax\stanclova_minimax\obj\Debug\net8.0\stanclova_minimax.pdb
+C:\MOJE\ŠKOLA\PRG\stanclova_minimax\stanclova_minimax\obj\Debug\net8.0\stanclova_minimax.genruntimeconfig.cache
+C:\MOJE\ŠKOLA\PRG\stanclova_minimax\stanclova_minimax\obj\Debug\net8.0\ref\stanclova_minimax.dll
