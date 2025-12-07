@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "stanclova_usporna_navigace/1.0.0": {
+        "runtime": {
+          "stanclova_usporna_navigace.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "stanclova_usporna_navigace/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

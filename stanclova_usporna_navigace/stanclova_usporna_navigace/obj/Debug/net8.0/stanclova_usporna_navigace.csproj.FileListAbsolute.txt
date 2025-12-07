@@ -1,0 +1,14 @@
+C:\MOJE\ŠKOLA\PRG\stanclova_usporna_navigace\stanclova_usporna_navigace\obj\Debug\net8.0\stanclova_usporna_navigace.GeneratedMSBuildEditorConfig.editorconfig
+C:\MOJE\ŠKOLA\PRG\stanclova_usporna_navigace\stanclova_usporna_navigace\obj\Debug\net8.0\stanclova_usporna_navigace.AssemblyInfoInputs.cache
+C:\MOJE\ŠKOLA\PRG\stanclova_usporna_navigace\stanclova_usporna_navigace\obj\Debug\net8.0\stanclova_usporna_navigace.AssemblyInfo.cs
+C:\MOJE\ŠKOLA\PRG\stanclova_usporna_navigace\stanclova_usporna_navigace\obj\Debug\net8.0\stanclova_usporna_navigace.csproj.CoreCompileInputs.cache
+C:\MOJE\ŠKOLA\PRG\stanclova_usporna_navigace\stanclova_usporna_navigace\bin\Debug\net8.0\stanclova_usporna_navigace.exe
+C:\MOJE\ŠKOLA\PRG\stanclova_usporna_navigace\stanclova_usporna_navigace\bin\Debug\net8.0\stanclova_usporna_navigace.deps.json
+C:\MOJE\ŠKOLA\PRG\stanclova_usporna_navigace\stanclova_usporna_navigace\bin\Debug\net8.0\stanclova_usporna_navigace.runtimeconfig.json
+C:\MOJE\ŠKOLA\PRG\stanclova_usporna_navigace\stanclova_usporna_navigace\bin\Debug\net8.0\stanclova_usporna_navigace.dll
+C:\MOJE\ŠKOLA\PRG\stanclova_usporna_navigace\stanclova_usporna_navigace\bin\Debug\net8.0\stanclova_usporna_navigace.pdb
+C:\MOJE\ŠKOLA\PRG\stanclova_usporna_navigace\stanclova_usporna_navigace\obj\Debug\net8.0\stanclova_usporna_navigace.dll
+C:\MOJE\ŠKOLA\PRG\stanclova_usporna_navigace\stanclova_usporna_navigace\obj\Debug\net8.0\refint\stanclova_usporna_navigace.dll
+C:\MOJE\ŠKOLA\PRG\stanclova_usporna_navigace\stanclova_usporna_navigace\obj\Debug\net8.0\stanclova_usporna_navigace.pdb
+C:\MOJE\ŠKOLA\PRG\stanclova_usporna_navigace\stanclova_usporna_navigace\obj\Debug\net8.0\stanclova_usporna_navigace.genruntimeconfig.cache
+C:\MOJE\ŠKOLA\PRG\stanclova_usporna_navigace\stanclova_usporna_navigace\obj\Debug\net8.0\ref\stanclova_usporna_navigace.dll
