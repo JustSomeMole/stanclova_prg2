@@ -1,0 +1,14 @@
+C:\MOJE\ŠKOLA\PRG\stanclova_txt_soubory\stanclova_txt_soubory\obj\Debug\net8.0\stanclova_txt_soubory.GeneratedMSBuildEditorConfig.editorconfig
+C:\MOJE\ŠKOLA\PRG\stanclova_txt_soubory\stanclova_txt_soubory\obj\Debug\net8.0\stanclova_txt_soubory.AssemblyInfoInputs.cache
+C:\MOJE\ŠKOLA\PRG\stanclova_txt_soubory\stanclova_txt_soubory\obj\Debug\net8.0\stanclova_txt_soubory.AssemblyInfo.cs
+C:\MOJE\ŠKOLA\PRG\stanclova_txt_soubory\stanclova_txt_soubory\obj\Debug\net8.0\stanclova_txt_soubory.csproj.CoreCompileInputs.cache
+C:\MOJE\ŠKOLA\PRG\stanclova_txt_soubory\stanclova_txt_soubory\bin\Debug\net8.0\stanclova_txt_soubory.exe
+C:\MOJE\ŠKOLA\PRG\stanclova_txt_soubory\stanclova_txt_soubory\bin\Debug\net8.0\stanclova_txt_soubory.deps.json
+C:\MOJE\ŠKOLA\PRG\stanclova_txt_soubory\stanclova_txt_soubory\bin\Debug\net8.0\stanclova_txt_soubory.runtimeconfig.json
+C:\MOJE\ŠKOLA\PRG\stanclova_txt_soubory\stanclova_txt_soubory\bin\Debug\net8.0\stanclova_txt_soubory.dll
+C:\MOJE\ŠKOLA\PRG\stanclova_txt_soubory\stanclova_txt_soubory\bin\Debug\net8.0\stanclova_txt_soubory.pdb
+C:\MOJE\ŠKOLA\PRG\stanclova_txt_soubory\stanclova_txt_soubory\obj\Debug\net8.0\stanclova_txt_soubory.dll
+C:\MOJE\ŠKOLA\PRG\stanclova_txt_soubory\stanclova_txt_soubory\obj\Debug\net8.0\refint\stanclova_txt_soubory.dll
+C:\MOJE\ŠKOLA\PRG\stanclova_txt_soubory\stanclova_txt_soubory\obj\Debug\net8.0\stanclova_txt_soubory.pdb
+C:\MOJE\ŠKOLA\PRG\stanclova_txt_soubory\stanclova_txt_soubory\obj\Debug\net8.0\stanclova_txt_soubory.genruntimeconfig.cache
+C:\MOJE\ŠKOLA\PRG\stanclova_txt_soubory\stanclova_txt_soubory\obj\Debug\net8.0\ref\stanclova_txt_soubory.dll

@@ -1,0 +1,13 @@
+ahoj:1
+mami,:1
+mam:1
+ti:2
+co:1
+rict.:1
+mami:1
+maminecko,:1
+jak:1
+to:1
+vsak:1
+rict:1
+mam?:1
