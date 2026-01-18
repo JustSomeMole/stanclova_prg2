@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "stanclova_rgb_aplikace/1.0.0": {
+        "runtime": {
+          "stanclova_rgb_aplikace.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "stanclova_rgb_aplikace/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
