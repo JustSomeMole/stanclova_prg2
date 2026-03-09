@@ -1,0 +1,14 @@
+C:\MOJE\PRG\stanclova_mince\stanclova_mince\bin\Debug\net8.0\stanclova_mince.exe
+C:\MOJE\PRG\stanclova_mince\stanclova_mince\bin\Debug\net8.0\stanclova_mince.deps.json
+C:\MOJE\PRG\stanclova_mince\stanclova_mince\bin\Debug\net8.0\stanclova_mince.runtimeconfig.json
+C:\MOJE\PRG\stanclova_mince\stanclova_mince\bin\Debug\net8.0\stanclova_mince.dll
+C:\MOJE\PRG\stanclova_mince\stanclova_mince\bin\Debug\net8.0\stanclova_mince.pdb
+C:\MOJE\PRG\stanclova_mince\stanclova_mince\obj\Debug\net8.0\stanclova_mince.GeneratedMSBuildEditorConfig.editorconfig
+C:\MOJE\PRG\stanclova_mince\stanclova_mince\obj\Debug\net8.0\stanclova_mince.AssemblyInfoInputs.cache
+C:\MOJE\PRG\stanclova_mince\stanclova_mince\obj\Debug\net8.0\stanclova_mince.AssemblyInfo.cs
+C:\MOJE\PRG\stanclova_mince\stanclova_mince\obj\Debug\net8.0\stanclova_mince.csproj.CoreCompileInputs.cache
+C:\MOJE\PRG\stanclova_mince\stanclova_mince\obj\Debug\net8.0\stanclova_mince.dll
+C:\MOJE\PRG\stanclova_mince\stanclova_mince\obj\Debug\net8.0\refint\stanclova_mince.dll
+C:\MOJE\PRG\stanclova_mince\stanclova_mince\obj\Debug\net8.0\stanclova_mince.pdb
+C:\MOJE\PRG\stanclova_mince\stanclova_mince\obj\Debug\net8.0\stanclova_mince.genruntimeconfig.cache
+C:\MOJE\PRG\stanclova_mince\stanclova_mince\obj\Debug\net8.0\ref\stanclova_mince.dll
