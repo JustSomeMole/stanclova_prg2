@@ -1,0 +1,14 @@
+C:\MOJE\PRG\stanclova_batoh\stanclova_batoh\bin\Debug\net8.0\stanclova_batoh.exe
+C:\MOJE\PRG\stanclova_batoh\stanclova_batoh\bin\Debug\net8.0\stanclova_batoh.deps.json
+C:\MOJE\PRG\stanclova_batoh\stanclova_batoh\bin\Debug\net8.0\stanclova_batoh.runtimeconfig.json
+C:\MOJE\PRG\stanclova_batoh\stanclova_batoh\bin\Debug\net8.0\stanclova_batoh.dll
+C:\MOJE\PRG\stanclova_batoh\stanclova_batoh\bin\Debug\net8.0\stanclova_batoh.pdb
+C:\MOJE\PRG\stanclova_batoh\stanclova_batoh\obj\Debug\net8.0\stanclova_batoh.GeneratedMSBuildEditorConfig.editorconfig
+C:\MOJE\PRG\stanclova_batoh\stanclova_batoh\obj\Debug\net8.0\stanclova_batoh.AssemblyInfoInputs.cache
+C:\MOJE\PRG\stanclova_batoh\stanclova_batoh\obj\Debug\net8.0\stanclova_batoh.AssemblyInfo.cs
+C:\MOJE\PRG\stanclova_batoh\stanclova_batoh\obj\Debug\net8.0\stanclova_batoh.csproj.CoreCompileInputs.cache
+C:\MOJE\PRG\stanclova_batoh\stanclova_batoh\obj\Debug\net8.0\stanclova_batoh.dll
+C:\MOJE\PRG\stanclova_batoh\stanclova_batoh\obj\Debug\net8.0\refint\stanclova_batoh.dll
+C:\MOJE\PRG\stanclova_batoh\stanclova_batoh\obj\Debug\net8.0\stanclova_batoh.pdb
+C:\MOJE\PRG\stanclova_batoh\stanclova_batoh\obj\Debug\net8.0\stanclova_batoh.genruntimeconfig.cache
+C:\MOJE\PRG\stanclova_batoh\stanclova_batoh\obj\Debug\net8.0\ref\stanclova_batoh.dll
